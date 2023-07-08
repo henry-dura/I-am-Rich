@@ -2,7 +2,12 @@
 
 A new Flutter project.
 
-![App Screenshot](screenshots/Screenshot_rich.png)
+
+| light                                               | dark                                               |
+|-----------------------------------------------------|----------------------------------------------------|
+| ![App Screenshot](screenshots/Screenshot_rich.png ) | ![App Screenshot](screenshots/Screenshot_rich.png) |
+
+
 
 
 ## Getting Started
