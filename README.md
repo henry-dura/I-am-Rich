@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+![App Screenshot](screenshots/Screenshot_rich.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
