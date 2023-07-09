@@ -5,7 +5,7 @@ A new Flutter project.
 
 | light                                               | dark                                               |
 |-----------------------------------------------------|----------------------------------------------------|
-| ![App Screenshot](screenshots/Screenshot_rich.png ) | ![App Screenshot](screenshots/Screenshot_rich.png) |
+| ![App Screenshot](images/Screenshot_rich.png ) | ![App Screenshot](images/Screenshot_dark.png) |
 
 
 

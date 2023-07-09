@@ -1,5 +1,3 @@
-
-
 import 'package:flutter/material.dart';
 
 void main() {
@@ -10,13 +8,10 @@ void main() {
         appBar: AppBar(
           title: const Text('I am Wealthy'),
           centerTitle: true,
-          backgroundColor: Colors.blueGrey[700],
+          backgroundColor: Colors.lightBlue[900],
         ),
-        body: const Center(
-          child: Image(
-            image: NetworkImage(
-                'https://blog.logrocket.com/wp-content/uploads/2021/05/intro-dart-flutter-feature.png'),
-          ),
+        body: Center(
+          child: Image.asset('images/flutter-icon.png'),
         ),
       ),
     ),
